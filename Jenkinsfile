@@ -5,7 +5,7 @@ pipeline {
       steps {
         sh 'echo "Anything"'
         echo 'hello'
-        sh 'year'
+        sh 'echo "type 2020"'
       }
     }
 
